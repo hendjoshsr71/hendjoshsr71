@@ -4,7 +4,7 @@
 <p align="left">
 ArduPilot Development Team Member based in the USA
 
-Let me know if I can help you with ArduPilot customizations, sensor integration, custom simulations, custom MAVLINK messages, and more!
+Let me know if I can help you with ArduPilot customizations: sensor integration, custom simulations, custom MAVLINK messages, and more!
 </p>
 
 ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hendjoshsr71&show_icons=true)
