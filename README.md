@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Josh</h1>
 <h2 align="center"> Just an autonomous systems engineer looking to enable autonomous vehicles for everyone! Passionate about all things flightworthy or not ;)</h2>
 <h3 align="center"> GNC, systems integration, design optimzation, and power systems </h3>
-<p align="left">
-ArduPilot Development Team Member based in the USA
 
+[ArduPilot](https://github.com/ArduPilot/ardupilot) Development Team Member based in the USA
+<p align="left">
 Let me know if I can help you with ArduPilot customizations: sensor integration, custom simulations, custom MAVLINK messages, and more!
 </p>
 
