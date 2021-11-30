@@ -2,9 +2,9 @@
 <h2 align="center"> Just an autonomous systems engineer looking to enable autonomous vehicles for everyone! Passionate about all things flightworthy or not ;)</h2>
 <h3 align="center"> GNC, systems integration, design optimzation, and power systems </h3>
 
-[ArduPilot](https://github.com/ArduPilot/ardupilot) Development Team Member based in the USA
+[ArduPilot](https://github.com/ArduPilot/ardupilot) Development Team Member & Partner Support Engineer based in the USA
 <p align="left">
-Let me know if I can help you with ArduPilot customizations: sensor integration, custom simulations, custom MAVLINK messages, and more!
+Let me know if I can help you with ArduPilot customizations: sensor integration, custom simulations, custom MAVLINK messages, development setup, and more!
 </p>
 
 ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hendjoshsr71&show_icons=true)
