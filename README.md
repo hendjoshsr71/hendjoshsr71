@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Josh</h1>
-<h2 align="center"> Autonomous systems engineer enabling autonomony vehicles for everyone one vehicle at a time! Passionate about all things flightworthy or not ;)</h2>
+<h2 align="center"> Autonomous systems engineer enabling autonomony for everyone one vehicle at a time! Passionate about all things flightworthy or not ;)</h2>
 <h3 align="center"> GNC, systems integration, design optimzation, and power systems </h3>
 
 [ArduPilot](https://github.com/ArduPilot/ardupilot) Development Team Member & Partner Support Engineer based in the USA
